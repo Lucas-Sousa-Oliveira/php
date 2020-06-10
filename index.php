@@ -1,4 +1,4 @@
-<? php
-echo "Ola mundo";
-echo "LUCAS SOUSA";
+<?php
+  echo "Ola mundo";
+  echo "LUCAS SOUSA";
 ?>
