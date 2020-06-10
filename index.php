@@ -1,4 +1,4 @@
 <? php
-acho "Ola mundo";
+echo "Ola mundo";
 echo "LUCAS SOUSA";
 ?>
