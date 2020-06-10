@@ -1,0 +1,3 @@
+<? php
+acho "Ola mundo";
+?>
